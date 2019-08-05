@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Startup User Growth Priorities and My Attempt at Illustrating them Using Javascript | The Blog of Scott L. Thompson</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="Startup User Growth Priorities and My Attempt at Illustrating them Using Javascript" />
+<meta name="author" content="scottlthompson" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I was recently thinking about priorities for obtaining new users for a web application, and – since I’ve gotten pretty far in Codecademy‘s Code Year – I figured I would try to illustrate my thoughts using Javascript conditionals:" />
+<meta property="og:description" content="I was recently thinking about priorities for obtaining new users for a web application, and – since I’ve gotten pretty far in Codecademy‘s Code Year – I figured I would try to illustrate my thoughts using Javascript conditionals:" />
+<link rel="canonical" href="http://localhost:4000/startup-user-growth-priorities-and-my-attempt-at-illustrating-them-using-javascript/" />
+<meta property="og:url" content="http://localhost:4000/startup-user-growth-priorities-and-my-attempt-at-illustrating-them-using-javascript/" />
+<meta property="og:site_name" content="The Blog of Scott L. Thompson" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-02-02T16:14:38-05:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/startup-user-growth-priorities-and-my-attempt-at-illustrating-them-using-javascript/"},"url":"http://localhost:4000/startup-user-growth-priorities-and-my-attempt-at-illustrating-them-using-javascript/","author":{"@type":"Person","name":"scottlthompson"},"headline":"Startup User Growth Priorities and My Attempt at Illustrating them Using Javascript","description":"I was recently thinking about priorities for obtaining new users for a web application, and – since I’ve gotten pretty far in Codecademy‘s Code Year – I figured I would try to illustrate my thoughts using Javascript conditionals:","dateModified":"2013-02-02T16:14:38-05:00","datePublished":"2013-02-02T16:14:38-05:00","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="The Blog of Scott L. Thompson" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">The Blog of Scott L. Thompson</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about-scott.html">About</a><a class="page-link" href="/work.html">Work</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Startup User Growth Priorities and My Attempt at Illustrating them Using Javascript</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2013-02-02T16:14:38-05:00" itemprop="datePublished">Feb 2, 2013
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">scottlthompson</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>I was recently thinking about priorities for obtaining new users for a web application, and – since I’ve gotten pretty far in <a href="http://www.codecademy.com">Codecademy</a>‘s Code Year – I figured I would try to illustrate my thoughts using Javascript conditionals:</p>
+
+<p><img class="alignnone size-full wp-image-109" alt="Screen Shot 2013-02-02 at 4.59.42 PM" src="http://scottlthompson.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814.png" width="683" height="227" srcset="http://scottlthompson.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814.png 683w, http://scottlthompson.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814-300x99.png 300w" sizes="(max-width: 683px) 100vw, 683px" /></p>
+
+<p>Disclaimer: Obviously the code above wouldn’t be very useful as code, but it was a good exercise in thinking about hierarchies.</p>
+
+<p>In plain English, the above code is an attempt to illustrate the following hierarchy:</p>
+
+<p><strong>1. Create an awesome product</strong></p>
+
+<p>Your number one user growth priority should be to create an awesome product that people will love, will use repeatedly, and will be compelled to share with their friends all on their own because they love it that much.</p>
+
+<p>Granted, in the spirit of the lean startup approach, this may be a work in progress. Hopefully you have already validated or are currently validating the product’s awesomeness or future awesomeness with your customers.</p>
+
+<p>IF awesomeness is (at least) being pursued…</p>
+
+<p>THEN…</p>
+
+<p><strong>2. Bake shareability into the product</strong></p>
+
+<p>Build something into the product that amplifies the sharing process in number one.  An easy example of this is Dropbox’s referral engine, which has at least two important prongs: 1) the free additional space you receive for inviting friends; and 2) the ability to invite a non-Dropbox user to a shared folder.</p>
+
+<p>The reason baked-in shareability is subordinate to product awesomeness in this hierarchy is that the baked-in shareability only amplifies sharing that would have taken place anyway. If the product is not worth sharing in the first place, amplifying that sharing won’t do much, just like a guitar amplifier doesn’t add anything when music is not being played.</p>
+
+<p>IF baked-in shareability is underway…</p>
+
+<p>THEN…</p>
+
+<p><strong>3. Create a structure measuring user experiences</strong></p>
+
+<p>If you’ve taken the broad steps of building an awesome product and have greased the wheels for the sharing of that product, then you will want to start zooming in on the details. Presumably, with steps 1 and 2 underway, people will start checking out and using the product. You will need a structure in place to measure everything you can about how users interact with the product, so that you can constantly make improvements to conversion and overall user experience. Do A/B testing to see what layouts and calls-to-action work best. Use analytics software to find ways to patch up any <a href="http://andrewchenblog.com/2007/12/20/is-your-website-a-leaky-bucket-4-scenarios-for-user-retention/">leaks</a> in your conversion funnel.</p>
+
+<p>This tactic falls where it does in the hierarchy because if users have no reason or opportunity to check out the product (i.e. if 1 and 2 are not satisfied), then improving those users’ experiences would be a fool’s errand.</p>
+
+<p>IF all of the above are satisfied…</p>
+
+<p>… and IF the cost-per-acquisition from paid marketing channels can be justified…</p>
+
+<p>only THEN…</p>
+
+<p><strong>4. Consider paid marketing for your product and investing in PR</strong></p>
+
+<p>Without the previous three steps in place, marketing your product will be very expensive, as it will be swimming against a very strong current.  In this case, I am including <em>investments</em> in PR with paid marketing. (NOTE: achieving press is easier if you have an awesome product).</p>
+
+<p>You’re much better off if your marketing spend is feeding additional visitors into a positive cycle where: 1) they are wowed by the product; 2) they feel compelled to share it with their friends (a $0.00 CPA); and 3) they keep coming back thanks to your understanding of their behaviors (gathered from all the testing you’ve done) and improving the product accordingly.</p>
+
+<p>The above steps are not supposed to be a linear chronological timeline, but rather a hierarchy of what your priorities should be. For example, it makes sense to have an eye toward shareability and measurability from the beginning, so that it’s easy to implement them when the time is right.</p>
+
+<p>In my previous startup, we hadn’t fleshed out numbers 2 and 3 before we dove into paid marketing techniques. Sure enough, our cost-per-acquisition on that marketing spend was incredibly high. So we turned off the paid marketing while we buckled down and worked on shareability and measurability. After implementing a referral engine in the site and robust analytics that could monitor what was going on, we resumed our paid marketing, and the results improved.</p>
+
+  </div><a class="u-url" href="/startup-user-growth-priorities-and-my-attempt-at-illustrating-them-using-javascript/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">The Blog of Scott L. Thompson</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">The Blog of Scott L. Thompson</li><li><a class="u-email" href="mailto:scott.thomps@gmail.com">scott.thomps@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.twitter.com/scottlthompson"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">scottlthompson</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>A blog documenting my experiences in entrepreneurship</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
