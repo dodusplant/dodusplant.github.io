@@ -12,9 +12,13 @@ categories:
 An article was posted recently in a local tech entrepreneurship-focused Facebook group that a DC entrepreneur would be on Shark Tank. The comment thread was disappointing to me:
   
   ![image](/img/fb1.png) 
+  
   ![image](/img/fb2.png) 
+  
   ![image](/img/fb3.png) 
+  
   ![image](/img/fb4.png) 
+  
   ![image](/img/fb5.png)   
 
 Here&#8217;s the rant I _wanted_ to post on the thread but never got around to it:
