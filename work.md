@@ -29,22 +29,23 @@ Making things is fun. Here are some things I&#8217;ve made (some had help from o
 
 Winner of the Baltimore Orioles Fan-Designed T-Shirt Contest, chosen out of a pool of 500 submissions.
 
-<img class="alignnone  wp-image-150" alt="web screenshot" src="http://scottlthompson.com/wp-content/uploads/2013/09/web-screenshot.png" width="595" height="469" srcset="http://scottlthompson.com/wp-content/uploads/2013/09/web-screenshot.png 1240w, http://scottlthompson.com/wp-content/uploads/2013/09/web-screenshot-300x236.png 300w, http://scottlthompson.com/wp-content/uploads/2013/09/web-screenshot-1024x806.png 1024w" sizes="(max-width: 595px) 100vw, 595px" /> 
+![](/img/web-screenshot.png)
 
 **<span style="font-size: small;">INFOGRAPHIC: How Airlines Define A Piece of Golf Luggage</span>**
 
 My first attempt at an infographic.
 
-<a href="http://scottlthompson.com/work/golf-luggage-infographic/" rel="attachment wp-att-55"><img class="alignnone  wp-image-55" alt="Golf Luggage Infographic" src="http://scottlthompson.com/wp-content/uploads/2012/12/Golf-Luggage-Infographic.jpg" width="582" height="450" srcset="http://scottlthompson.com/wp-content/uploads/2012/12/Golf-Luggage-Infographic.jpg 808w, http://scottlthompson.com/wp-content/uploads/2012/12/Golf-Luggage-Infographic-300x232.jpg 300w" sizes="(max-width: 582px) 100vw, 582px" /></a>
+![](/img/Golf-Luggage-Infographic.jpg)
 
 **WEBSITE: Bungolow**
 
 My co-founder at Bungolow, Scott Bird, and I directed / managed the creation of this website.
 
-<a href="http://scottlthompson.com/work/bungolow-facebook-login-english/" rel="attachment wp-att-100"><img alt="Bungolow Facebook Login English" src="http://scottlthompson.com/wp-content/uploads/2012/12/Bungolow-Facebook-Login-English.png" width="614" height="283" /></a>
+![](/img/Bungolow-Facebook-Login-English.png)
 
 After logging in:  
-<a href="http://scottlthompson.com/work/bglw-screenshot/" rel="attachment wp-att-101"><img class="alignnone size-full wp-image-101" alt="bglw screenshot" src="http://scottlthompson.com/wp-content/uploads/2012/12/bglw-screenshot.jpg" width="600" height="935" srcset="http://scottlthompson.com/wp-content/uploads/2012/12/bglw-screenshot.jpg 600w, http://scottlthompson.com/wp-content/uploads/2012/12/bglw-screenshot-192x300.jpg 192w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+
+![](/img/bglw-screenshot.jpg)
 
 &nbsp;
 
@@ -52,10 +53,6 @@ After logging in:
 
 A site I was playing around with during business school.
 
-<a href="http://scottlthompson.com/work/screenshot1/" rel="attachment wp-att-102"><img alt="screenshot1" src="http://scottlthompson.com/wp-content/uploads/2012/12/screenshot1.jpg" width="689" height="579" /></a>
+![](/img/screenshot1.jpg)
 
-<a href="http://scottlthompson.com/work/screenshot2/" rel="attachment wp-att-103"><img class="alignnone  wp-image-103" alt="screenshot2" src="http://scottlthompson.com/wp-content/uploads/2012/12/screenshot2.jpg" width="682" height="463" srcset="http://scottlthompson.com/wp-content/uploads/2012/12/screenshot2.jpg 853w, http://scottlthompson.com/wp-content/uploads/2012/12/screenshot2-300x203.jpg 300w" sizes="(max-width: 682px) 100vw, 682px" /></a>
-
-&nbsp;
-
-&nbsp;
+![](/img/screenshot2.jpg)
