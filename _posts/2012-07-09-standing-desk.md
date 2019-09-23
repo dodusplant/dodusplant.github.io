@@ -32,13 +32,8 @@ It&#8217;s hard to miss the articles and studies out there about how [sitting ki
 
 Before:
 
-<a href="http://scottlthompson.com/standing-desk/before/" rel="attachment wp-att-69"><img class="alignnone size-full wp-image-69" alt="Standing desk - Before" src="http://scottlthompson.com/wp-content/uploads/2012/07/before.jpg" width="400" height="300" srcset="http://scottlthompson.com/wp-content/uploads/2012/07/before.jpg 400w, http://scottlthompson.com/wp-content/uploads/2012/07/before-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-
-<div class="p_embed p_image_embed">
-</div>
+![sd-before](/img/before.jpg)
 
 After:
 
-<div class="p_embed p_image_embed">
-  <img class="alignnone size-full wp-image-166" alt="after" src="http://scottlthompson.com/wp-content/uploads/2012/07/after.jpg" width="400" height="300" srcset="http://scottlthompson.com/wp-content/uploads/2012/07/after.jpg 400w, http://scottlthompson.com/wp-content/uploads/2012/07/after-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
-</div>
+![sd-before](/img/after.jpg)
