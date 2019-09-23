@@ -26,8 +26,6 @@ tags:
 ---
 With inspiration from Paul Graham&#8217;s [The Top of My To-Do List](http://paulgraham.com/todo.html) post, I now have a fixture sitting at the top of my Google Tasks list:
 
-<div class="p_embed p_image_embed">
-  <img class="alignnone size-full wp-image-164" alt="top of to-do list" src="http://scottlthompson.com/wp-content/uploads/2012/07/top-of-to-do-list.png" width="267" height="308" srcset="http://scottlthompson.com/wp-content/uploads/2012/07/top-of-to-do-list.png 267w, http://scottlthompson.com/wp-content/uploads/2012/07/top-of-to-do-list-260x300.png 260w" sizes="(max-width: 267px) 100vw, 267px" />
-</div>
+![Top of To-do List](/img/top-of-to-do-list.png)
 
 PG&#8217;s list item ends with &#8220;be happy&#8221;; I added a couple reminders to myself to take care of my body, too. In this case, &#8220;Stand up&#8221; does not have a symbolic meaning like &#8220;stand up for what you believe in&#8221;, but more of a direct meaning: &#8220;literally [stand up](http://scottlthompson.com/standing-desk) if you have been sitting for awhile &#8211; sitting kills&#8221;.
