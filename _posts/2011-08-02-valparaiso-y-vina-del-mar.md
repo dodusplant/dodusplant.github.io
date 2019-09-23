@@ -44,22 +44,6 @@ Last week, <a href="http://www.scottcbird.com" title="Scott B." target="_blank">
 
 Let&#8217;s just say that moving out there is very tempting, but&nbsp;I&#8217;ll let the pictures do the talking. As of now, though, we have a lot going on in Santiago so we&#8217;ll stay here for the next few months.
 
-<div class='p_embed p_image_embed'>
-  <a href="http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-08-01/BsuenmuFvGqpHmpjwdifbceibGBqCAJzxJfrkbsAJglocnyBebhAxjnalqEo/IMG_0142.JPG.scaled1000.jpg"><img alt="Img_0142" height="375" src="http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-08-01/BsuenmuFvGqpHmpjwdifbceibGBqCAJzxJfrkbsAJglocnyBebhAxjnalqEo/IMG_0142.JPG.scaled500.jpg" width="500" /></a>
-</div></p> 
-
 The UTFSM campus is one of the prettiest university campuses I&#8217;ve seen&#8230;&nbsp;
 
-<div class='p_embed p_image_embed'>
-  <a href="http://scottlthompson.com/wp-content/uploads/2012/12/img_0156.jpg"><img alt="Img_0156" height="667" src="http://scottlthompson.com/wp-content/uploads/2012/12/img_0156.jpg?w=225" width="500" /></a>
-</div>
-
-<div class='p_embed p_image_embed'>
-  <a href="http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-08-01/fctEEcflAgwlddhdnBrunJBiiqJJAFfxxkjfgCbwuqjFIzwmyhGuaxejcsjc/IMG_0141.JPG.scaled1000.jpg"><img alt="Img_0141" height="375" src="http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-08-01/fctEEcflAgwlddhdnBrunJBiiqJJAFfxxkjfgCbwuqjFIzwmyhGuaxejcsjc/IMG_0141.JPG.scaled500.jpg" width="500" /></a>
-</div>
-
-<div class='p_embed p_image_embed'>
-  <a href="http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-08-01/hfJJtIHIGlBHpFyxanCdbhosaEwqesDhHjtHGcFBrGvuqvBdxouBIhelCDaC/IMG_0176.JPG.scaled1000.jpg"><img alt="Img_0176" height="375" src="http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-08-01/hfJJtIHIGlBHpFyxanCdbhosaEwqesDhHjtHGcFBrGvuqvBdxouBIhelCDaC/IMG_0176.JPG.scaled500.jpg" width="500" /></a>
-</div>
-
-Photo credits: Scott Bird
+![](img/img_0156.jpg)
