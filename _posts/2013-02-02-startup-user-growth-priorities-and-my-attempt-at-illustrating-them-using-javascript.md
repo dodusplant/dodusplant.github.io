@@ -12,7 +12,7 @@ categories:
 ---
 I was recently thinking about priorities for obtaining new users for a web application, and – since I&#8217;ve gotten pretty far in [Codecademy](http://www.codecademy.com)&#8216;s Code Year – I figured I would try to illustrate my thoughts using Javascript conditionals:
 
-<img class="alignnone size-full wp-image-109" alt="Screen Shot 2013-02-02 at 4.59.42 PM" src="http://scottlthompson.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814.png" width="683" height="227" srcset="http://scottlthompson.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814.png 683w, http://scottlthompson.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814-300x99.png 300w" sizes="(max-width: 683px) 100vw, 683px" /> 
+![image](/img/Screen-Shot-2013-02-02-at-4.59.42-PM-e1359842479814.png)
 
 Disclaimer: Obviously the code above wouldn&#8217;t be very useful as code, but it was a good exercise in thinking about hierarchies.
 
