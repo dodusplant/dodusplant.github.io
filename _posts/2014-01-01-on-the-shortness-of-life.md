@@ -14,7 +14,7 @@ I was doing some cleaning today and stumbled across a piece of paper with a quot
 
 > Indeed the state of all who are preoccupied is wretched, but the most wretched are those who are toiling not even at their own preoccupations, but must regulate their sleep by another&#8217;s, and their walk by another&#8217;s pace&#8230; If such people want to know how short their lives are, let them reflect how small a portion is their own.
 
-<img class="wp-image-172 alignleft" style="margin-left: 15px; margin-right: 15px;" alt="On the Shortness of Life" src="http://scottlthompson.com/wp-content/uploads/2014/01/51ZbsDPCN1L.jpg" width="211" height="300" srcset="http://scottlthompson.com/wp-content/uploads/2014/01/51ZbsDPCN1L.jpg 352w, http://scottlthompson.com/wp-content/uploads/2014/01/51ZbsDPCN1L-211x300.jpg 211w" sizes="(max-width: 211px) 100vw, 211px" /> 
+![On the Shortness of Life](/img/51ZbsDPCN1L.jpg)
 
 This quote really struck a chord with me when I first read it in early 2011. At the time, I had a stable job with a great benefits package in a Fortune 500 company. But I was stuck in a cubicle all day—bearing unnecessary amounts of stress—to try to essentially make the company&#8217;s wealthy shareholders even wealthier. Re-reading the quote, I came to the harsh realization that my job situation was forcing me to &#8220;regulate [my] sleep by another&#8217;s.&#8221;
 
