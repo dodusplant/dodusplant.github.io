@@ -33,9 +33,7 @@ Lately, I have found myself finding a lot of meaning in certain songs particular
 
 This post will kick off a series on songs that I have found meaningful from an entrepreneurship perspective. I&#8217;ll avoid pop-y, inspirational songs like I Believe I Can Fly, and stick to songs into which you have to dig a little deeper.
 
-<div class="p_embed p_image_embed">
-  <img class="alignnone  wp-image-76" alt="pj" src="http://scottlthompson.com/wp-content/uploads/2012/08/pj.jpg" width="560" height="382" srcset="http://scottlthompson.com/wp-content/uploads/2012/08/pj.jpg 800w, http://scottlthompson.com/wp-content/uploads/2012/08/pj-300x204.jpg 300w" sizes="(max-width: 560px) 100vw, 560px" />
-</div>
+![Pearl Jam](/img/pj.jpg)
 
 **Entrepreneurship Song #1: I Am Mine, by Pearl Jam**
 
