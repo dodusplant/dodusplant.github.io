@@ -16,7 +16,7 @@ An article was posted recently in a local tech entrepreneurship-focused Facebook
 
 <div>
   
-  ![image](/img/Screen-Shot-2014-01-01-at-4.12.52-PM1.png) 
+  ![image]({{ site.url }}/img/Screen-Shot-2014-01-01-at-4.12.52-PM1.png) 
   ![image](/img/Screen-Shot-2014-01-01-at-4.13.22-PM.png) 
   ![image](/img/Screen-Shot-2014-01-01-at-4.13.49-PM.png) 
   ![image](/img/Screen-Shot-2014-01-01-at-4.14.08-PM.png) 
