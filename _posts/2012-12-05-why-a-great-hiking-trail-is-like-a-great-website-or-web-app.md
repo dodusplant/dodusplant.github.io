@@ -27,9 +27,7 @@ tags:
 ---
 This post was inspired by a recent hike on one of my go-to trails: The Billy Goat Trail A along the Potomac River outside Washington, DC.
 
-<div class="p_embed p_image_embed">
-  <img class="alignnone size-full wp-image-39" alt="The Billy Goat Trail" src="http://scottlthompson.com/wp-content/uploads/2012/12/billy-goat.jpg" width="640" height="427" srcset="http://scottlthompson.com/wp-content/uploads/2012/12/billy-goat.jpg 640w, http://scottlthompson.com/wp-content/uploads/2012/12/billy-goat-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
-</div>
+![Billy Goat Trail](/img/billy-goat.jpg)
 
 A good hiking trail is like a good website or web app. In this post, I am referring to hiking trails that are designed, marked and maintained by an organization (rather than ones that form naturally from use and without a supervising organization). The fundamental similarity between a good hiking trail and a good website or web app – the similarity that drives most of the observations below – is that both strive for an excellent [User Experience (UX)](http://en.wikipedia.org/wiki/User_experience).
 
