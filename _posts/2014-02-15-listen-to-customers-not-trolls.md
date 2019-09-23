@@ -10,21 +10,12 @@ categories:
   - Entrepreneurship
 ---
 An article was posted recently in a local tech entrepreneurship-focused Facebook group that a DC entrepreneur would be on Shark Tank. The comment thread was disappointing to me:
-
-<div>
-</div>
-
-<div>
   
   ![image](/img/fb1.png) 
   ![image](/img/fb2.png) 
   ![image](/img/fb3.png) 
   ![image](/img/fb4.png) 
   ![image](/img/fb5.png)   
-</div>
-
-<div>
-</div>
 
 Here&#8217;s the rant I _wanted_ to post on the thread but never got around to it:
 
