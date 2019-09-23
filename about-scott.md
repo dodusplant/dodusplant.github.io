@@ -19,7 +19,10 @@ posterous_attachment_map:
 bfa_virtual_template:
   - hierarchy
 ---
-<a href="http://scottlthompson.com/about-scott/portrait300x300/" rel="attachment wp-att-53"><img class="size-full wp-image-53 alignleft" alt="portrait300x300" src="http://scottlthompson.com/wp-content/uploads/2012/12/portrait300x300-e1355700159195.jpg" width="100" height="100" /></a>My name is Scott Thompson, and I am a Co-Founder of [Stories Incorporated](http://storiesincorporated.com), a company whose purpose is To Inspire and Support Growth Through Organizational Storytelling.
+
+![](/img/portrait300x300.jpg)
+
+My name is Scott Thompson, and I am a Co-Founder of [Stories Incorporated](http://storiesincorporated.com), a company whose purpose is To Inspire and Support Growth Through Organizational Storytelling.
 
 Prior to co-founding Stories Incorporated, I spent one year in Chile and Argentina starting a Latin America-focused travel e-commerce business called Bungolow. During my time abroad, I gained invaluable experience in all aspects of starting a business and learned a lot about those two amazing countries and their cultures. I also have experience in marketing for a Fortune 500 financial services company.
 
