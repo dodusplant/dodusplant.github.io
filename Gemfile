@@ -1,31 +1,26 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# Use the github-pages gem instead of pinning Jekyll/kramdown/plugin versions
+# yourself. This locks your local dev environment to the exact gem versions
+# GitHub's own Pages build servers use right now - so security patches,
+# Jekyll updates, and plugin compatibility are handled centrally by GitHub
+# rather than something you track and update by hand.
 #
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "~> 3.9"
+# The lines below fetch the currently-deployed version number directly from
+# GitHub at install time, so this Gemfile never goes stale on its own -
+# every `bundle install` checks https://pages.github.com/versions.json for
+# the version GitHub is running today.
+require "json"
+require "open-uri"
+versions = JSON.parse(URI.open("https://pages.github.com/versions.json").read)
+gem "github-pages", versions["github-pages"], group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
-# kramdown 2.x (required to fix CVE-2020-14001 and CVE-2021-28834) split its
-# GitHub-Flavored-Markdown parser into this separate gem. Included here as a
-# safety net in case any posts rely on GFM-style fenced code blocks or tables.
-gem "kramdown-parser-gfm"
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
+# jekyll-feed is already bundled with github-pages above, so it's not listed
+# separately here - adding your own version pin for it could conflict with
+# the exact version github-pages requires.
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
